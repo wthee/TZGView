@@ -1,0 +1,2 @@
+rootProject.name='TZG View'
+include ':app'
